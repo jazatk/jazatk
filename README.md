@@ -1,16 +1,34 @@
-## Hi there 👋
+<h2 align="center">Hello, my name is Jazlyn! ♡⋆｡</h2>
 
-<!--
-**jazatk/jazatk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⋆˖───────୨୧───────˖⋆⋆˖───────୨୧───────˖⋆⋆˖───────୨୧───────˖⋆⋆˖───────୨୧───────˖⋆
 
-Here are some ideas to get you started:
+### ⋆ ‧°𖦹 I'm a college freshman learning to code 𖦹°‧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzFtNW9vNGg4NThuOGFkb3duazF2MHd4MDhsMWtmZnJ3eGFjcGdicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TgyJebqyMtPrOxiPdk/giphy.gif">
+
+### ⋆ Learning 💭:
+‧ ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=FFA6C9) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=FFA6C9) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=FFA6C9) 
+</br>
+‧ ![Git](https://img.shields.io/badge/-Git-000?&logo=GitforWindows&logoColor=FFA6C9) ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash&logoColor=FFA6C9)
+</br>
+‧ ![CompTIA Sec+](https://img.shields.io/badge/-CompTIA%20Sec+-000?&logo=CompTIA&logoColor=FFA6C9)
+
+
+### ⋆ Hobbies 🎧: 
+‧ Gaming: Fortnite, Minecraft, Roblox </br>
+‧ Watching anime & action movies </br>
+‧ Modding mechanical keyboards (club member!) </br>
+‧ Learning fun facts
+
+### ⋆˖───────୨୧───────˖⋆⋆˖───────୨୧───────˖⋆⋆˖───────୨୧───────˖⋆⋆˖───────୨୧───────˖⋆
+
+<h2 align="center">Connect with me! ⸜(｡˃ ᵕ ˂｡)⸝</h2>
+
+<p align="center">
+ </br>
+  pending..
+  </p>
+</br>
+</br>
+
+### ⋆˖───────୨୧───────˖⋆⋆˖───────୨୧───────˖⋆⋆˖───────୨୧───────˖⋆⋆˖───────୨୧───────˖⋆
