@@ -4,7 +4,7 @@
 
 ### ⋆ ‧°𖦹 I'm a college freshman learning to code 𖦹°‧
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzFtNW9vNGg4NThuOGFkb3duazF2MHd4MDhsMWtmZnJ3eGFjcGdicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TgyJebqyMtPrOxiPdk/giphy.gif">
+<img hight="370" width="470" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzFtNW9vNGg4NThuOGFkb3duazF2MHd4MDhsMWtmZnJ3eGFjcGdicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TgyJebqyMtPrOxiPdk/giphy.gif">
 
 ### ⋆ Learning 💭:
 ‧ ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=FFA6C9) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=FFA6C9) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=FFA6C9) 
