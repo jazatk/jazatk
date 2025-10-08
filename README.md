@@ -24,10 +24,12 @@
 
 <h2 align="center">Connect with me! ⸜(｡˃ ᵕ ˂｡)⸝</h2>
 
-<p align="center">
- </br>
-  pending..
-  </p>
+</br>
+</br>
+</br>
+
+<p align="center">working on it...👩🏻‍💻</p>
+
 </br>
 </br>
 
