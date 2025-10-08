@@ -15,7 +15,7 @@
 
 
 ### ⋆ Hobbies 🎧: 
-‧ Gaming: Fortnite, Minecraft, Roblox </br>
+‧ Gaming: Fortnite, The Sims 4, Minecraft, Roblox </br>
 ‧ Watching anime & action movies </br>
 ‧ Modding mechanical keyboards (club member!) </br>
 ‧ Learning fun facts
