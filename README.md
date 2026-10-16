@@ -2,7 +2,7 @@
 
 <h3 align="center"> ⋆˖──────୨୧──────˖⋆⋆˖──────୨୧──────˖⋆⋆˖──────୨୧──────˖⋆⋆˖──────୨୧──────˖⋆ </h3>
 
-### ⋆ ‧°𖦹 I'm a college freshman learning to code 𖦹°‧
+### ⋆ ‧°𖦹 I'm a college sophomore learning to code 𖦹°‧
 
 <img hight="370" width="470" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzFtNW9vNGg4NThuOGFkb3duazF2MHd4MDhsMWtmZnJ3eGFjcGdicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TgyJebqyMtPrOxiPdk/giphy.gif">
 
@@ -15,7 +15,7 @@
 
 
 ### ⋆ Hobbies 🎧: 
-‧ Gaming: Fortnite, The Sims 4, Minecraft, Roblox </br>
+‧ Gaming: PVZGW2, The Sims 4, Minecraft, Roblox </br>
 ‧ Watching anime & action movies </br>
 ‧ Modding mechanical keyboards (club member!) </br>
 ‧ Learning fun facts
